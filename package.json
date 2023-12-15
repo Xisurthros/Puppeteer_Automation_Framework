@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer-automation-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "puppeteer": "^5.5.0"
+  }
+}

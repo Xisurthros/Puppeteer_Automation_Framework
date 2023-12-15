@@ -1,0 +1,2 @@
+cmd: npx jest login
+cmd: npx jest -t "<testName/descriptionName>"
